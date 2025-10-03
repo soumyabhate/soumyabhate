@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello, World of Data! Soumya here. </h1>
+<h1 align="center">Hello People, Soumya here!</h1>
 
 <p align="center">
   **"My professor once told me- In a world where everyone shares the same skillset, intelligence will set me apart"**
