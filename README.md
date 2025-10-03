@@ -1,29 +1,30 @@
 <div align="center">
   <a href="https://github.com/SoumyaBhate">
-    <img src="PASTE_YOUR_BANNER_IMAGE_URL_HERE" alt="Soumya Bhate - Data Scientist from the Data Age Banner" width="100%">
+    <img src="https://github.com/soumyabhate/soumyabhate/blob/main/GitProfile.png" alt="Soumya Bhate - Data Scientist from the Data Age Banner" width="100%">
   </a>
 </div>
 
-<h1 align="center">Hello, World of Stone! I am Soumya Bhate 👋</h1>
+<h1 align="center">Hello, World of Data! Soumya here. </h1>
 
 <p align="center">
-  **"Rebuilding the future, one data point and algorithm at a time. Ten Billion Percent Ready!"**
+  **"My professor once told me- In a world where everyone shares the same skillset, intelligence will set me apart"**
 </p>
 
 ---
 
-### About My Kingdom of Science (About Me)
+### About Me
 
-- 🔭 I’m currently focused on **Data Science research and technical implementations within Adobe Platforms** at UMBC.
+I’m Soumya Bhate, a data science enthusiast and explorer with hands-on experience across the end-to-end data lifecycle — from building ETL pipelines and data warehouses to designing insightful dashboards and predictive models. My journey blends creativity with analytics, whether it’s developing machine learning models, crafting BI dashboards, or engineering solutions for big data challenges.
+
 - 🌱 I’m currently learning **advanced Data Modelling/Warehousing, Database Administration, and deepening my expertise in Machine Learning & NLP.**
 - 👯 I’m looking to collaborate on **innovative AI/ML projects, data-driven solutions for healthcare/research, or Big Data initiatives.**
-- 💬 Ask me about: **Adobe Analytics, Power BI/Tableau Dashboards, ETL Pipelines, Machine Learning (Decision Trees, Logistic Regression, SVM), or any Dr. Stone-inspired scientific challenge!**
-- 📫 How to reach me: [soumyabhate19@gmail.com](mailto:soumyabhate19@gmail.com) or connect on [LinkedIn Profile Link] (You can use your LinkedIn URL here)
-- ⚡ Fun fact: I'm always looking for creative ways to apply technology to solve complex problems, much like bringing civilization back from the Stone Age!
+- 💬 Ask me about: **Adobe Analytics, Power BI/Tableau Dashboards, ETL Pipelines, Machine Learning (Decision Trees, Logistic Regression, SVM)**
+- 📫 How to reach me: [soumyabhate19@gmail.com](mailto:soumyabhate19@gmail.com) or connect on [soumyabhate19](www.linkedin.com/in/soumyabhate19)
+- ⚡ Fun fact: I'm always interested in looking for creative ways to apply technology to solve complex problems.
 
 ---
 
-### My Scientific Toolkit (Tech Stack)
+### My Tech Stack
 
 <table>
   <tr>
@@ -90,7 +91,7 @@
 
 ---
 
-### My Data Age Contributions (GitHub Stats)
+### My Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumyaBhate&show_icons=true&theme=dracula&count_private=true" alt="Soumya Bhate GitHub Stats" />
@@ -103,14 +104,11 @@
 
 ---
 
-### Connect with the Scientist
+### Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/soumyabhate19" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"> <!-- If you have a Twitter, replace YOUR_TWITTER_HANDLE -->
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:soumyabhate19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
