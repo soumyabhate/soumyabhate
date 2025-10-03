@@ -18,7 +18,7 @@ I’m Soumya Bhate, a data science enthusiast and explorer with hands-on experie
 
 - 🌱 I’m currently learning **advanced Data Modelling/Warehousing, Database Administration, and deepening my expertise in Machine Learning & NLP.**
 - 👯 I’m looking to collaborate on **innovative AI/ML projects, data-driven solutions for healthcare/research, or Big Data initiatives.**
-- 💬 Ask me about: **Adobe Analytics, Power BI/Tableau Dashboards, ETL Pipelines, Machine Learning (Decision Trees, Logistic Regression, SVM)**
+- 💬 Ask me about: **Machine Learning, Power BI/Tableau Dashboards, ETL Pipelines and Adobe Analytics**
 - 📫 How to reach me: [soumyabhate19@gmail.com](mailto:soumyabhate19@gmail.com) or connect on [soumyabhate19](www.linkedin.com/in/soumyabhate19)
 - ⚡ Fun fact: I'm always interested in looking for creative ways to apply technology to solve complex problems.
 
