@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=5000&color=E3C9C9&center=true&width=800&lines=Soumya+Bhate.+Data+scientist+who+loves+anime.+Always+curious.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&width=250&color=E3C9C9&lines=Soumya+Bhate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&width=350&color=A3C4BC&lines=data+scientist+who+loves+anime)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&width=200&color=B497D6&lines=always+curious)](https://git.io/typing-svg)
 
 <h1 align="center">Hello People, Soumya here! 👋</h1>
 
