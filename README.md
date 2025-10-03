@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&width=900&lines=Soumya+Bhate.+Data+Scientist+who+loves+anime.+Always+curious&duration=4000&pause=8000&color=E3C9C9)](https://git.io/typing-svg)
 
 <p align="center"><i>
-  "My professor once told me — In a world where everyone shares the same skillset, intelligence will set me apart."
+  "My professor once told me — In a world where everyone shares the same skillset, intelligence sets us apart."
 </i></p>
 
 ---
