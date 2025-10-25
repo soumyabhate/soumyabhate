@@ -20,10 +20,10 @@ I’m **Soumya Bhate**, a data enthusiast with hands-on experience across the en
 
 ### 🎓 Education
 
-- **M.P.S., Data Science** — University of Maryland, Baltimore County (UMBC), *Expected May 2026*  
+- **M.P.S., Data Science** — University of Maryland, Baltimore County (UMBC), *(Expected May 2026)*  
   CGPA: **3.86/4.0** • Specialization: **Data Modelling/Warehousing & Database Administration**
 
-- **B.Tech., Information Technology** — Medi-Caps University  
+- **B.Tech., Information Technology** — Medi-Caps University, *(Aug 2019 – May 2023)*  
   CGPA: **3.51/4.0** • Specialization: **Web Technologies (IoT, Web Dev & Networking)**
 
 ---
