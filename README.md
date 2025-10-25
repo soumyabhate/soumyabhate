@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&width=980&lines=Soumya+Bhate+|+Data+Scientist+who+loves+Anime+;Always+Curious+|+Always+Learning&duration=4000&pause=8000&color=E3C9C9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&width=980&lines=Soumya+Bhate+|+Data+Scientist+|+Anime+Enthusiast;Always+Curious+|+Always+Learning&duration=4000&pause=8000&color=E3C9C9)](https://git.io/typing-svg)
 
 <p align="center"><i>
   "In a world where everyone shares the same skillset, intelligence sets us apart."
