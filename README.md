@@ -81,7 +81,7 @@ I’m **Soumya Bhate**, a data enthusiast with hands-on experience across the en
 - Designed project strategy, **product taxonomy**, **Adobe Launch** configuration, and TSDs.  
 - Led dashboard creation, sprint reviews, and stakeholder meetings.
 
-**Other**  
+**Other Projects**  
 - **SMS Spam Detector** using Naive Bayes, SVM, Decision Tree.  
 - **Pizza Delivery Website** with location-based preference analytics.
 
