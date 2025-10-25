@@ -77,7 +77,7 @@ I’m **Soumya Bhate**, a data enthusiast with hands-on experience across the en
 - Built **Spark MLlib** logistic regression (53.7% accuracy after fixing label leakage).  
 - **Stack:** Databricks, PySpark, Spark MLlib, SQL, Pandas, Matplotlib, Seaborn, Excel
 
-**Official Project — Business Banking (Malaysia)** *(Jul 2023 – Jul 2024)*  
+**Official Project @ OMEG — Business Banking (Malaysia)** *(Jul 2023 – Jul 2024)*  
 - Designed project strategy, **product taxonomy**, **Adobe Launch** configuration, and TSDs.  
 - Led dashboard creation, sprint reviews, and stakeholder meetings.
 
